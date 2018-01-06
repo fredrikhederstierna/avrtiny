@@ -1,4 +1,7 @@
 
+# To setup environment in Linux, package needed:
+# sudo apt-get install avrdude avr-libc binutils-avr gcc-avr gdb-avr srecord simulavr
+
 TARGET = main
 
 AVRDUDE = sudo avrdude
